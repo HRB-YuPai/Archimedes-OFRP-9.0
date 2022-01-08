@@ -30,7 +30,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := Archimedes
-PRODUCT_NAME := full_Archimedes
+PRODUCT_NAME := omni_Archimedes
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Archimedes
 PRODUCT_MANUFACTURER := xiaomi
